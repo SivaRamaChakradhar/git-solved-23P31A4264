@@ -1,0 +1,33 @@
+* b95a220 (HEAD -> main, origin/main) docs: Add changelog
+* 03a0dc3 (origin/feature/another-feature) docs: Update README
+| * 8b03540 (feature/another-feature) Bad commit
+|/  
+| * 94a4180 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+| * 38cbd73 (refs/stash) On feature/new-feature: WIP: New feature development
+|/| 
+| * fa2cd00 index on feature/new-feature: 170d94d docs: Add FAQ section
+|/  
+* 170d94d docs: Add FAQ section
+* 0c745dc README.md
+* cd12f95 feat: Add new feature
+* d3b6019 docs: Add FAQ section
+* 0600c15 docs: Update README
+* 0ab5461 docs: Update README
+* d49e18b (tag: v1.1.0, tag: v1.0.0) feat: Add test feature
+* a4aaf46 feat: Add new feature
+* 1144331 docs: Add FAQ section
+* f1f1202 doc: Added checkpoint3
+*   88f668b merge: Resolve all conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 1cd2863 doc: Added checkpoint2.png
+* |   52401bf merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | d823d0c doc: Added project folder
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
